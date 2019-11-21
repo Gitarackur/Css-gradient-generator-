@@ -1,0 +1,62 @@
+@media only screen and (min-width: 600px){
+
+    * {
+        padding : 0;
+        margin : 0;
+        box-sizing: border-box;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        /* font-family: "Open Sans"; */
+        
+      }
+    
+      body{
+        width: 100%;
+        margin: 0%;
+        display: block;
+        background: linear-gradient( to right, #ffff00, #00ffff);
+      }
+
+
+     .c{
+          margin: auto;
+          width: 50%;
+          display: flex;
+      }
+
+      #HEADING{
+        margin: auto;
+        width: 50%;
+        display: flex;
+        border: 2px solid black;
+    }
+
+      h1{
+          color:white;
+          text-align: center;
+      }
+
+
+      h2{
+        color:white;
+        text-align: center;
+        margin: auto;
+        width: 50%;
+      }
+
+      .color1{
+          background-color: orange;
+          margin: auto;
+          width: 50%;
+          display: block;
+      }
+
+      .color2{
+        background-color: blue;
+        margin: auto;
+        width: 50%;
+        display: block;
+    }
+
+
+    }
+    
